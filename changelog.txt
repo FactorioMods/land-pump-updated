@@ -1,0 +1,5 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.4
+Date: 2026-11-12
+  Changes:
+    - Ports land pumping to Factorio 2.1 and fixes independent per-planet startup switches. A disabled planet, missing tile or planet without map generation settings no longer stops processing the other planets.
