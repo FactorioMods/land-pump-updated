@@ -1,0 +1,13 @@
+{
+  "name": "Land-Pump",
+  "version": "0.1.4",
+  "title": "Land Pump",
+  "author": "MonoToast",
+  "dependencies": [
+    "base",
+    "? space-age >= 2.0.2",
+    "? alien-biomes >= 0.7.2"
+  ],
+  "description": "Allows offshore pumps to draw fluids directly from naturally occurring land tiles, fluid is based on the planet.",
+  "factorio_version": "2.0"
+}
